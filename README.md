@@ -27,7 +27,7 @@
 ---
 
 <details>
-<summary> Safe13Baby: 영유아 질식사 방지 AI</summary>
+<summary> 영유아 질식사 방지 AI</summary>
 
 > YOLO 기반 객체 탐지로 위험 자세를 실시간 감지하는 안전 솔루션  
 >
