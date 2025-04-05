@@ -82,15 +82,25 @@
 ---
 ## 📊 GitHub Stats & Algorithm
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AIminions&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIminions&layout=compact&theme=radical&hide_title=true" height="160"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AIminions&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" height="150"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIminions&layout=compact&theme=radical&hide_title=true" height="150"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=AIminions&theme=radical&hide_title=true" height="150"/>
+    </td>
+    <td>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=potatooftaebaek" height="150"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AIminions&theme=radical&hide_title=true" height="160"/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wis725" height="160" />
-</p>
 ---
 
 ## 📫 Contact
