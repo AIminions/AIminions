@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 핵심 프로젝트 & 집중 분야
+## 🚀 Key Projects & Areas of Focus
 
 <details>
 <summary>🎯 산업 특화 RAG 파이프라인 구축</summary>
