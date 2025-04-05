@@ -35,7 +35,7 @@
 > [![YOLOv5](https://img.shields.io/badge/YOLOv5-FFBF00?style=flat-square&logo=yolo&logoColor=black)](https://github.com/ultralytics/yolov5)
 > [![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/machine-learning/)
 >
-> 🔗 [프로젝트 보기](https://github.com/SafeBabyAI/main))
+> 🔗 [프로젝트 보기](https://github.com/SafeBabyAI/main)
 
 </details>
 
