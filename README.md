@@ -90,7 +90,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AIminions&theme=radical&hide_title=true" height="160"/>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=wis725" height="160" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wis725" height="160" />
 </p>
 ---
 
