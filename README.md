@@ -89,6 +89,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AIminions&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIminions&layout=compact&theme=radical&hide_title=true" height="165"/>
 
+<!-- Streak -->
+<br/>
+<img src="https://streak-stats.demolab.com?user=AIminions&theme=radical&hide_title=true" height="165"/>
 
 <!-- Baekjoon Tier -->
 <br/>
