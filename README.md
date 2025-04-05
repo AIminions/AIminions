@@ -96,7 +96,7 @@
       <img src="https://streak-stats.demolab.com?user=AIminions&theme=radical&hide_title=true" height="150"/>
     </td>
     <td>
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=potatooftaebaek" height="150"/>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wis725" height="150"/>
     </td>
   </tr>
 </table>
