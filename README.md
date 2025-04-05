@@ -9,10 +9,10 @@
 
 ---
 
-## 🚀 Key Projects & Areas of Focus
+##  Key Projects & Areas of Focus
 
 <details>
-<summary>🎯 산업 특화 RAG 파이프라인 구축</summary>
+<summary> 산업 특화 RAG 파이프라인 구축</summary>
 
 > 공연 데이터를 기반으로 도메인 특화 정보를 추출하는 RAG 에이전트 개발  
 >
@@ -27,7 +27,7 @@
 ---
 
 <details>
-<summary>🧪 Safe13Baby: 영유아 질식사 방지 AI</summary>
+<summary> Safe13Baby: 영유아 질식사 방지 AI</summary>
 
 > YOLO 기반 객체 탐지로 위험 자세를 실시간 감지하는 안전 솔루션  
 >
