@@ -78,7 +78,7 @@
 ![AIminions's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIminions&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIminions&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=AIminions&theme=radical)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AIminions.AIminions)
+<img src="https://komarev.com/ghpvc/?username=AIminions&label=Visitors&color=blue&style=flat-square" alt="visitor badge"/>
 
 ---
 
