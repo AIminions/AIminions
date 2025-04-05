@@ -72,8 +72,7 @@
 - 🧠 AI와 협력하며 **진짜 문제를 푸는 것**에 열정을 가짐
 
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Algorithm
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AIminions&show_icons=true&theme=radical" height="165" />
@@ -85,6 +84,9 @@
   <img src="https://komarev.com/ghpvc/?username=AIminions&label=Visitors&color=blue&style=flat-square" height="28" />
 </p>
 
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=potatooftaebaek" height="165" alt="Baekjoon tier badge"/>
+</p>
 ---
 
 ## 📫 Contact
