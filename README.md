@@ -83,19 +83,26 @@
 ---
 ## 📊 GitHub Stats & Algorithm
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AIminions&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIminions&layout=compact&theme=radical" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AIminions&theme=radical" height="165" />
-  <img src="https://komarev.com/ghpvc/?username=AIminions&label=Visitors&color=blue&style=flat-square" height="28" />
-</p>
+<!-- GitHub Stats + Languages -->
+<img src="https://github-readme-stats.vercel.app/api?username=AIminions&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIminions&layout=compact&theme=radical&hide_title=true" height="165"/>
 
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wis725" height="165" alt="Baekjoon tier badge"/>
-</p>
+<!-- Streak -->
+<br/>
+<img src="https://streak-stats.demolab.com?user=AIminions&theme=radical&hide_title=true" height="165"/>
+
+<!-- Visitors -->
+<br/>
+<img src="https://komarev.com/ghpvc/?username=AIminions&label=Visitors&color=blue&style=flat-square" height="28"/>
+
+<!-- Baekjoon Tier -->
+<br/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wis725" height="165" alt="Baekjoon tier badge"/>
+
+</div>
+
 ---
 
 ## 📫 Contact
