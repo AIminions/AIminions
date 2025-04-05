@@ -43,8 +43,6 @@
 > 🔗 [프로젝트 보기](https://github.com/SafeBabyAI/MakeModel)
 
 </details>
-
-> 🛠 각 프로젝트는 실제 도메인 문제 해결에 초점을 두었음.
 ---
 
 ## 🛠 Tech Stack
