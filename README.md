@@ -1,4 +1,4 @@
-# 👋 Hi, I'm hyeon soo lee
+# Hi, I'm hyeon soo lee
 ---
 
 > 🧭 "세상에 없는 지식을 발견하고자 하는 AI 엔지니어"
