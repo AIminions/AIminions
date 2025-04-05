@@ -1,9 +1,4 @@
 # 👋 Hi, I'm Hyeon soo lee
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://your-portfolio-link.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=velog&logoColor=white)](https://your-blog-link.com)
-[![Email](https://img.shields.io/badge/Email-wis72531@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wis72531@gmail.com)
-
 ---
 
 > 🧭 "세상에 없는 지식을 발견하고자 하는 AI 엔지니어"
@@ -108,6 +103,8 @@
 - 📧 Email: [wis72531@gmail.com](mailto:wis72531@gmail.com)
 <!-- - 🌐 Blog: [yourblog.com](https://yourblog.com) -->
 <!-- - 💼 LinkedIn: [linkedin.com/in/yourid](https://linkedin.com/in/yourid) -->
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://your-portfolio-link.com)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=velog&logoColor=white)](https://your-blog-link.com)
+[![Email](https://img.shields.io/badge/Email-wis72531@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wis72531@gmail.com)
 
 _🚧 GitHub 레포는 계속 업데이트 중입니다. 커밋의 방향성보다 **실행력**과 **문제 해결 능력**에 집중하고 있습니다._
