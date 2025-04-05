@@ -12,7 +12,7 @@
 ##  Key Projects & Areas of Focus
 
 <details>
-<summary> 산업 특화 RAG 파이프라인 구축</summary>
+<summary> 산업 특화 AI agent</summary>
 
 > 공연 데이터를 기반으로 도메인 특화 정보를 추출하는 RAG 에이전트 개발  
 >
