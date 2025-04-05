@@ -10,7 +10,7 @@
 
 저는 비전공자로 시작해 **실무형 AI 프로젝트 경험**을 쌓으며 성장 중인 AI 엔지니어입니다.  
 현재는 산업 도메인 특화 AI 에이전트와 **RAG 기반의 정보검색 파이프라인**,  
-그리고 **공공 분야의 AI 솔루션**을 중심으로 프로젝트를 수행하고 있습니다.
+그리고 **의료/공공 분야의 AI 솔루션**을 중심으로 프로젝트를 수행하고 있습니다.
 
 ---
 
@@ -56,6 +56,7 @@
 |--------|-------------|-------|
 | [Safe13Baby](https://github.com/SafeBabyAI/MakeModel) | 영유아 질식사 방지를 위한 객체 탐지 기반 모델 개발 | PyTorch, YOLO, Azure ML |
 | [공연기획 AI Agent](https://github.com/AIM-Artificial-Intelligence-Momentum/RAG) | 공연 데이터를 활용한 산업 특화 RAG 파이프라인 | Azure OpenAI, CLU, KOPIS |
+| [병해진단 AI](https://github.com/your-plant-disease-repo) | AI Hub 데이터를 활용한 작물 병해 이미지 분류 모델 | PyTorch, Roboflow |
 
 > 🛠 각 프로젝트는 실제 도메인 문제 해결에 초점을 두고 있으며, 코드와 결과물은 꾸준히 개선 중입니다.
 
@@ -72,10 +73,10 @@
 
 ## 📊 GitHub Stats
 
-![wis72531's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wis72531&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wis72531&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=wis72531&theme=radical)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wis72531.wis72531)
+![AIminions's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIminions&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIminions&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=AIminions&theme=radical)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AIminions.AIminions)
 
 ---
 
