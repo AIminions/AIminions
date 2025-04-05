@@ -92,7 +92,7 @@
 
 <!-- Baekjoon Tier -->
 <br/>
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=wis725" height="165" alt="Baekjoon tier badge (animated)"/>
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=wis725" height="165" />
 
 </div>
 
