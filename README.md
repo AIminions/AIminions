@@ -57,7 +57,7 @@
 
 ## 📫 Contact
 
-- Email: your@email.com  
+- Email: wis72531@gmail.com 
 - Blog (Optional): 
 - LinkedIn (Optional):
 
