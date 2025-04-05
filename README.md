@@ -99,8 +99,6 @@
 ---
 
 ## 📫 Contact
-
-- 📧 Email: [wis72531@gmail.com](mailto:wis72531@gmail.com)
 <!-- - 🌐 Blog: [yourblog.com](https://yourblog.com) -->
 <!-- - 💼 LinkedIn: [linkedin.com/in/yourid](https://linkedin.com/in/yourid) -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://your-portfolio-link.com)
