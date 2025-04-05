@@ -75,10 +75,24 @@
 
 ## 📊 GitHub Stats
 
-![AIminions's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIminions&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIminions&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=AIminions&theme=radical)
-<img src="https://komarev.com/ghpvc/?username=AIminions&label=Visitors&color=blue&style=flat-square" alt="visitor badge"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AIminions&show_icons=true&theme=radical" alt="AIminions GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIminions&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=AIminions&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=AIminions&label=Visitors&color=blue&style=flat-square" alt="Visitors" />
+    </td>
+  </tr>
+</table>
 
 ---
 
