@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=potatooftaebaek" height="165" alt="Baekjoon tier badge"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wis725" height="165" alt="Baekjoon tier badge"/>
 </p>
 ---
 
