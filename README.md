@@ -32,7 +32,7 @@
 > YOLO 기반 객체 탐지로 위험 자세를 실시간 감지하는 안전 솔루션  
 >
 > [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-> [![YOLOv8](https://img.shields.io/badge/YOLOv5-FFBF00?style=flat-square&logo=yolo&logoColor=black)](https://github.com/ultralytics/yolov8)
+> [![YOLOv8](https://img.shields.io/badge/YOLOv8-FFBF00?style=flat-square&logo=yolo&logoColor=black)](https://github.com/ultralytics/yolov8)
 > [![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/machine-learning/)
 >
 > 🔗 [프로젝트 보기](https://github.com/SafeBabyAI/main)
