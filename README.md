@@ -93,10 +93,6 @@
 <br/>
 <img src="https://streak-stats.demolab.com?user=AIminions&theme=radical&hide_title=true" height="165"/>
 
-<!-- Visitors -->
-<br/>
-<img src="https://komarev.com/ghpvc/?username=AIminions&label=Visitors&color=blue&style=flat-square" height="28"/>
-
 <!-- Baekjoon Tier -->
 <br/>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wis725" height="165" alt="Baekjoon tier badge"/>
