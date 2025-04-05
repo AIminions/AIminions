@@ -14,14 +14,28 @@
 
 ---
 
-## 💡 Current Focus
+## 📌 핵심 프로젝트 & 집중 분야
 
-- 🎯 **산업 특화 RAG 파이프라인 구축**  
-  (Azure Cognitive Search + CLU + KOPIS + Azure OpenAI)
-- 🧠 GPT-4o 기반 AI 모델 파인튜닝 및 도우미 벡터 저장소 운영
-- 🧪 실시간 질식 위험 감지 모델 개발 (Safe13Baby 프로젝트)
-- 📊 데이터 분석 및 AI 에이전트 개발 (공연 산업 중심)
+### 🎯 산업 특화 RAG 파이프라인 구축  
+> 공연 데이터를 기반으로 도메인 특화 정보를 추출하는 RAG 에이전트 개발
 
+[![Azure Cognitive Search](https://img.shields.io/badge/Azure_Cognitive_Search-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/search/)
+[![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=flat-square&logo=openai&logoColor=white)](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service/)
+[![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)](https://www.langchain.com/)
+
+🔗 [프로젝트 보기](https://github.com/AIM-Artificial-Intelligence-Momentum/RAG)
+
+---
+
+### 🧪 Safe13Baby: 영유아 질식사 방지 AI  
+> YOLO 기반 객체 탐지로 위험 자세를 실시간 감지하는 안전 솔루션
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![YOLOv5](https://img.shields.io/badge/YOLOv5-FFBF00?style=flat-square&logo=yolo&logoColor=black)](https://github.com/ultralytics/yolov5)
+[![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/machine-learning/)
+
+🔗 [프로젝트 보기](https://github.com/SafeBabyAI/MakeModel)
+> 🛠 각 프로젝트는 실제 도메인 문제 해결에 초점을 두고 있으며, 코드와 결과물은 꾸준히 개선 중입니다.
 ---
 
 ## 🛠 Tech Stack
@@ -47,18 +61,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## 🔍 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Safe13Baby](https://github.com/SafeBabyAI/MakeModel) | 영유아 질식사 방지를 위한 객체 탐지 기반 모델 개발 | PyTorch, YOLO, Azure ML |
-| [공연기획 AI Agent](https://github.com/AIM-Artificial-Intelligence-Momentum/RAG) | 공연 데이터를 활용한 산업 특화 RAG 파이프라인 | Azure OpenAI, CLU, KOPIS |
-| [병해진단 AI](https://github.com/your-plant-disease-repo) | AI Hub 데이터를 활용한 작물 병해 이미지 분류 모델 | PyTorch, Roboflow |
-
-> 🛠 각 프로젝트는 실제 도메인 문제 해결에 초점을 두고 있으며, 코드와 결과물은 꾸준히 개선 중입니다.
 
 ---
 
