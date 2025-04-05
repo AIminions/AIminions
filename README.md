@@ -83,19 +83,15 @@
 ---
 ## 📊 GitHub Stats & Algorithm
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AIminions&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIminions&layout=compact&theme=radical&hide_title=true" height="160"/>
+</p>
 
-<!-- GitHub Stats + Languages -->
-<img src="https://github-readme-stats.vercel.app/api?username=AIminions&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIminions&layout=compact&theme=radical&hide_title=true" height="165"/>
-
-
-<!-- Baekjoon Tier -->
-<br/>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wis725" height="165" alt="Baekjoon tier badge"/>
-
-</div>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AIminions&theme=radical&hide_title=true" height="160"/>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=potatooftaebaek" height="160" />
+</p>
 ---
 
 ## 📫 Contact
