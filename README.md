@@ -1,4 +1,4 @@
-# 👋 Hi, I'm wis72531
+# 👋 Hi, I'm Hyeon soo lee
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://your-portfolio-link.com)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=velog&logoColor=white)](https://your-blog-link.com)
