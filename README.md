@@ -77,7 +77,7 @@
 - 🧠 AI와 협력하며 **진짜 문제를 푸는 것**에 열정을 가짐
 
 ---
-## 📊 GitHub Stats & Algorithm
+## 📊 GitHub Stats
 
 <table align="center">
   <tr>
