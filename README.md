@@ -103,5 +103,5 @@
 ## 📫 Contact
 <!-- - 🌐 Blog: [yourblog.com](https://yourblog.com) -->
 <!-- - 💼 LinkedIn: [linkedin.com/in/yourid](https://linkedin.com/in/yourid) -->
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=velog&logoColor=black)](https://velog.io/@wis725/posts)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@wis725/posts)
 [![Email](https://img.shields.io/badge/Email-wis72531@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wis72531@gmail.com)
