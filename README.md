@@ -99,6 +99,8 @@
   </tr>
 </table>
 
+---
+
 <details>
 <summary>💻 국내 Azure 사용 기업 분석 보기</summary>
 
@@ -115,7 +117,6 @@
 | **패스트파이브** | Azure 기반 MSP 및 퍼블릭 클라우드 운영       | ◎ Azure 경력 우대 채용           | 멀티클라우드 엔지니어 채용 중 (Azure 포함) |
 
 </details>
-
 
 ---
 
