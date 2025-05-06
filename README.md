@@ -104,6 +104,6 @@
 ## 📫 Contact
 <!-- - 🌐 Blog: [yourblog.com](https://yourblog.com) -->
 <!-- - 💼 LinkedIn: [linkedin.com/in/yourid](https://linkedin.com/in/yourid) -->
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@wis725/posts)
+[![GitHub Blog](https://img.shields.io/badge/GitHub_Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://AIminions.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%98%84%EC%88%98-%EC%9D%B4-356b45346/)
 [![Email](https://img.shields.io/badge/Email-wis72531@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wis72531@gmail.com)
