@@ -73,18 +73,18 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AIminions&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" width="420" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=AIminions&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" width="350" height="150"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIminions&layout=compact&theme=radical&hide_title=true" width="420" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIminions&layout=compact&theme=radical&hide_title=true" width="350" height="150"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=AIminions&theme=radical&hide_title=true" width="420" height="200"/>
+      <img src="https://streak-stats.demolab.com?user=AIminions&theme=radical&hide_title=true" width="350" height="150"/>
     </td>
     <td>
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wis725" width="420" height="200"/>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wis725" width="350" height="150"/>
     </td>
   </tr>
 </table>
