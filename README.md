@@ -3,16 +3,18 @@
 
 > 🧭 "세상에 없는 지식을 발견하고자 하는 AI 엔지니어"
 
-저는 비전공자로 시작해 **실무형 AI 프로젝트 경험**을 쌓으며 성장 중인 AI 엔지니어입니다.  
-현재는 산업 도메인 특화 AI 에이전트와 **RAG 기반의 정보검색 파이프라인**,  
-그리고 **공공 분야의 AI 솔루션**을 중심으로 프로젝트를 수행하고 있습니다.
+안녕하세요, 저는 **AI로 산업의 복잡한 문제를 해결하고자 하는 실전형 AI 엔지니어 이현수**입니다.  
+비전공자로 시작했지만, 실제 프로젝트를 통해 실무 경험을 쌓고 있습니다.
 
+현재는  
+- 산불 화재 조기 예측 시스템 등  
+**사회적 가치를 지닌 문제를 해결하는 프로젝트**에 집중하고 있습니다.
 ---
 
-##  Key Projects & Areas of Focus
+##  🔍 Key Projects & Areas of Focus
 
 <details>
-<summary> 산업 특화 AI agent</summary>
+<summary>🎭 산업 특화 AI agent</summary>
 
 > 공연 데이터를 기반으로 도메인 특화 정보를 추출하는 RAG 에이전트 개발  
 >
@@ -24,10 +26,8 @@
 
 </details>
 
----
-
 <details>
-<summary> 영유아 질식사 방지 AI</summary>
+<summary>👶 영유아 질식사 방지 AI</summary>
 
 > YOLO 기반 객체 탐지로 위험 자세를 실시간 감지하는 안전 솔루션  
 >
@@ -41,8 +41,7 @@
 
 ---
 
-
-## Tech Stack
+## ⚙️ Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -75,26 +74,26 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AIminions&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=AIminions&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" width="420" height="200"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIminions&layout=compact&theme=radical&hide_title=true" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIminions&layout=compact&theme=radical&hide_title=true" width="420" height="200"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=AIminions&theme=radical&hide_title=true" height="150"/>
+      <img src="https://streak-stats.demolab.com?user=AIminions&theme=radical&hide_title=true" width="420" height="200"/>
     </td>
     <td>
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wis725" height="150"/>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wis725" width="420" height="200"/>
     </td>
   </tr>
 </table>
 
 ---
+
 ## 📫 Contact
-<!-- - 🌐 Blog: [yourblog.com](https://yourblog.com) -->
-<!-- - 💼 LinkedIn: [linkedin.com/in/yourid](https://linkedin.com/in/yourid) -->
+
 [![GitHub Blog](https://img.shields.io/badge/GitHub_Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://AIminions.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%98%84%EC%88%98-%EC%9D%B4-356b45346/)
 [![Email](https://img.shields.io/badge/Email-wis72531@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wis72531@gmail.com)
