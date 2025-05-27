@@ -42,8 +42,6 @@
 
 ## Tech Stack
 
-## Tech Stack
-
 **Languages**  
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
