@@ -49,16 +49,12 @@
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="64" height="64" />
 </p>
 
----
-
 ### **Frameworks & Libraries**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FFBF00?style=flat-square&logo=yolo&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
-
----
 
 ### **Cloud & MLOps**
 
@@ -67,12 +63,10 @@
 ![Azure Search](https://img.shields.io/badge/Azure_Search-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="Azure Logo" width="64" height="64" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="64" height="64" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="Azure Logo" width="64" height="64" />
 </p>
-
----
 
 ### **Tools**
 
