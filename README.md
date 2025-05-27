@@ -80,8 +80,6 @@
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
 
 ---
-
----
 ## 📊 GitHub Stats
 
 <table align="center">
