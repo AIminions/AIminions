@@ -63,13 +63,12 @@
 
 
 **Tools**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="64" height="64" />
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
-
 
 ---
 ## 📊 GitHub Stats
