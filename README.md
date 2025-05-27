@@ -46,7 +46,6 @@
 
 <p align="left">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="64" height="64" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="64" height="64" />
 </p>
 
 ### **Frameworks & Libraries**
