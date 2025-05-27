@@ -1,4 +1,4 @@
-# Hi, I'm Hyeon Soo Lee
+# Hi, I'm Hyun Soo Lee
 ---
 
 > 🧭 "세상에 없는 지식을 발견하고자 하는 AI 엔지니어"
@@ -39,10 +39,6 @@
 </details>
 
 ---
-
-## Tech Stack
-
-## 🚀 Tech Stack
 
 ## Tech Stack
 
