@@ -43,8 +43,10 @@
 ## Tech Stack
 
 **Languages**  
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="64" height="64" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="64" height="64" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="64" height="64" /></div>
-
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="64" height="64" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="64" height="64" />
+</div>
 **Frameworks & Libraries**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FFBF00?style=flat-square&logo=yolo&logoColor=black)
@@ -55,7 +57,10 @@
 ![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=openai&logoColor=white)
 ![Azure Search](https://img.shields.io/badge/Azure_Search-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow-5A67D8?style=flat-square)
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="64" height="64" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="64" height="64" /></div><div style="display: flex; align-items: flex-start;">
+  </div>
+
 
 **Tools**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
