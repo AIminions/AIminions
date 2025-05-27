@@ -42,29 +42,35 @@
 
 ## Tech Stack
 
-**Languages**  
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+## 🚀 Tech Stack
 
-**Frameworks & Libraries**  
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img alt="YOLO" src="https://img.shields.io/badge/YOLO-FFBF00?style=for-the-badge&logo=yolo&logoColor=black" />
-<img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>Python</td>
+    <td align="center"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/><br/>SQL</td>
+    <td align="center"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><br/>PyTorch</td>
+    <td align="center"><img src="https://img.shields.io/badge/YOLO-FFBF00?style=for-the-badge&logo=yolo&logoColor=black"/><br/>YOLO</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/><br/>Hugging Face</td>
+    <td align="center"><img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/><br/>LangChain</td>
+    <td align="center"><img src="https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br/>Azure ML</td>
+    <td align="center"><img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white"/><br/>Azure OpenAI</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Azure_Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br/>Azure Search</td>
+    <td align="center"><img src="https://img.shields.io/badge/Roboflow-5A67D8?style=for-the-badge"/><br/>Roboflow</td>
+    <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/><br/>GitHub</td>
+    <td align="center"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><br/>VS Code</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/><br/>Notion</td>
+    <td align="center"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/><br/>Figma</td>
+    <td align="center"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/><br/>Slack</td>
+    <td align="center"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/><br/>Teams</td>
+  </tr>
+</table>
 
-**Cloud & MLOps**  
-<img alt="Azure ML" src="https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img alt="Azure OpenAI" src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white" />
-<img alt="Azure Search" src="https://img.shields.io/badge/Azure_Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img alt="Roboflow" src="https://img.shields.io/badge/Roboflow-5A67D8?style=for-the-badge" />
-
-**Tools**  
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-<img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" />
 
 
 ---
