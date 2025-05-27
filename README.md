@@ -43,8 +43,7 @@
 ## Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="64" height="64" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="64" height="64" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="64" height="64" /></div>
 
 **Frameworks & Libraries**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
