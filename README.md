@@ -46,7 +46,7 @@
 <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="64" height="64" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="64" height="64" />
-</div>
+
 **Frameworks & Libraries**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FFBF00?style=flat-square&logo=yolo&logoColor=black)
