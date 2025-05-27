@@ -65,9 +65,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
-<p align="center">
-  <img src="https://readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&animation=true&lineCount=2&stackIds=python,pytorch,azure,azureml,openai,huggingface,langchain,roboflow,vscode,notion,figma,slack,microsoftteams,github,postgresql,yolo" alt="Tech Stack" width="100%" />
-</p>
+
 
 ---
 ## 📊 GitHub Stats
