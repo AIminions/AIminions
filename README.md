@@ -51,7 +51,6 @@
 ### **Frameworks & Libraries**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-FFBF00?style=flat-square&logo=yolo&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
 
