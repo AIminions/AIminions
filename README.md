@@ -59,8 +59,6 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="Azure Logo" width="64" height="64" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="64" height="64" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="64" height="64" />
 </p>
 
 ### **Tools**
