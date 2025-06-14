@@ -12,7 +12,7 @@
 > ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
 > [![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/machine-learning/)
 >
-> 🔗 [프로젝트 보기](https://github.com/SafeBabyAI/main)
+> 🔗 [프로젝트 보기]([https://github.com/SafeBabyAI/main](https://github.com/santa-close-ai))
 
 </details>
 
