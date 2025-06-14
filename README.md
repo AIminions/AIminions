@@ -4,6 +4,19 @@
 ##  Key Projects & Areas of Focus
 
 <details>
+<summary> 산불 조기예측 시스템 AI</summary>
+
+> POF 모델을 통한 국내 산불 조기예측 및 경고 시스템  
+>
+> [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+> ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+> [![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/machine-learning/)
+>
+> 🔗 [프로젝트 보기](https://github.com/SafeBabyAI/main)
+
+</details>
+
+<details>
 <summary> 산업 특화 AI agent</summary>
 
 > 공연 데이터를 기반으로 도메인 특화 정보를 추출하는 RAG 에이전트 개발  
@@ -28,6 +41,7 @@
 > 🔗 [프로젝트 보기](https://github.com/SafeBabyAI/main)
 
 </details>
+
 
 ---
 
