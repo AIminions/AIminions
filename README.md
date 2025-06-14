@@ -4,7 +4,7 @@
 ##  Key Projects & Areas of Focus
 
 <details>
-<summary> 산불 조기예측 시스템 AI</summary>
+<summary> 산불 조기예측 AI 시스템 </summary>
 
 > POF 모델을 통한 국내 산불 조기예측 및 경고 시스템  
 >
